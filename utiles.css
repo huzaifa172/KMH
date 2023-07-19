@@ -1,0 +1,16 @@
+/* display flex  */
+.d_f{
+    display: flex;
+}
+/* justify contant  */
+.j_c{
+    justify-content: center;
+}
+/* flex direction  column*/
+.f_d_C{
+    flex-direction: column;
+}
+/* flex direction  Row*/
+.f_d_R{
+    flex-direction: row;
+}
